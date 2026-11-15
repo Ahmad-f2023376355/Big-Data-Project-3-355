@@ -2,7 +2,7 @@
 
 Clustering-based engine that groups audience comments, flags unusual posts and generates marketing recommendations for a Pakistani women's lawn-suit brand (Instagram, TikTok, Facebook).
 
-**Live web app:** https://<your-github-username>.github.io/<repo-name>/  (GitHub Pages, serves `docs/index.html`)
+**Live web app:** https://ahmad-f2023376355.github.io/Big-Data-Project-3/  (GitHub Pages, serves `docs/index.html`)
 
 > **Data note:** the demo uses SIMULATED data (`data_source = simulated`), not real brand measurements.
 
